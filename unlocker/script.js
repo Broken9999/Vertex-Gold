@@ -418,11 +418,28 @@ function handleSubmit(url) {
     let input = url ?? document.getElementById("address-bar").value.trim();
     if (!input) return;
 
-    if (!input.startsWith('http')) {
-        input = input.includes('.') && !input.includes(' ') 
+    const engine = localStorage.getItem('lastEngine') 
+        || "https://search.brave.com/search?q=";
+
+    // If already a full URL, do NOT rewrite it
+    if (!/^https?:\/\//i.test(input)) {
+        input = input.includes('.') && !input.includes(' ')
             ? `https://${input}`
-            : `https://search.brave.com/search?q=${encodeURIComponent(input)}`;
+            : engine + encodeURIComponent(input);
     }
+
+    tab.loading = true;
+    showIframeLoading(true, input);
+    updateLoadingBar(tab, 10);
+    tab.frame.go(input);
+}
+
+const engine = localStorage.getItem('lastEngine') 
+    || "https://search.brave.com/search?q=";
+
+input = input.includes('.') && !input.includes(' ')
+    ? `https://${input}`
+    : engine + encodeURIComponent(input);
     
     tab.loading = true;
     showIframeLoading(true, input);
