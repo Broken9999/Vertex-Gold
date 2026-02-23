@@ -1336,5 +1336,11 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/728.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/728.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Famidash",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/735.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/735.png",
+    "description": "Game Active"
   }
 ]
