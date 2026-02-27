@@ -1366,5 +1366,17 @@
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/712.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/712.png",
     "description": "Game Active"
+  },
+  {
+    "name": "Nazi Zombies: Portable",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/308.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/308.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Generic Fighter Maybe",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/519.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/519.png",
+    "description": "Game Active"
   }
 ]
