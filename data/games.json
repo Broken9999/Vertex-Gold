@@ -397,7 +397,7 @@
   },
   {
     "name": "Steal a Brainrot",
-    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/479.html",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold-Assets/refs/heads/main/stealabrainrot.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/479.png",
     "description": "Game Active"
   },
@@ -1425,6 +1425,12 @@
     "name": "Endoparasitic",
     "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/286.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/286.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Tanuki Sunset",
+    "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold-Assets/refs/heads/main/tanukisunset.html",
+    "image": "https://gamesfree.io/wp-content/uploads/2025/12/Tanuki-sunset-github.webp",
     "description": "Game Active"
   }
 ]
