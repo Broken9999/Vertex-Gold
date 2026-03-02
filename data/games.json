@@ -1384,5 +1384,47 @@
     "src": "https://raw.githubusercontent.com/ten8mystery/Vertex-Gold-Assets/refs/heads/main/gdadv.html",
     "image": "https://raw.githubusercontent.com/AleFunky/geometry_dash_advance/heads/main/images/cover.jpg",
     "description": "Game Active"
+  },
+  {
+    "name": "Bart Blast",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/740.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/740.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Dumb Ways to Die",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/738.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/738.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Soccer Random",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/739.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/739.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Escape Road City 2",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/744.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/744.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Sonic Mania",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/590.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/590.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Sonic CD",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/589.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/589.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Endoparasitic",
+    "src": "https://cdn.jsdelivr.net/gh/gn-math/html@main/286.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/286.png",
+    "description": "Game Active"
   }
 ]
